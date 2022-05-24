@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Vinicius Cunha.
+- 👀 Tenho interesse em trabalhar com programação.
+- 🌱 Faço faculdade de Engenharia da Computação na Univesp e atualmente estudo desenvolvimento web por conta própria. 
+- 📫 Caso queira entrar em contato, envie um email para cunha.vcs@gmail.com ou me procure no LinkedIn [/in/cunhavcs/](https://www.linkedin.com/in/cunhavcs/)
